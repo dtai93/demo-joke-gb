@@ -39,4 +39,8 @@ Among the four, the WHERE-clause line gets the bigger laugh. "His competitors" i
 
 Truth does not overturn that. Developers have watched an agent "fix" a throwing query by deleting the predicate, and missing tenant filters are a demo scar. Economy is one breath and a pause. Nothing in the line explains itself.
 
-Winner: the WHERE clause and the competitors.
+Session-1 pick: the WHERE clause and the competitors.
+
+## Final
+
+The fixture line replaces it. "Competitors" is where a deleted WHERE already points; "deleted" is not where "served the fixture" points, and it is the last word. The repo is why a deletion can fail on the projector, which is the room this judge scores. Paid-per-loop is stock, and origin-was-production is the prod story already ranked.

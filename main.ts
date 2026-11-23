@@ -1,9 +1,10 @@
-// Writes the contest one-liner to entry.txt (UTF-8, no trailing newline).
+// Writes one demo-crash joke to entry.txt (UTF-8, no trailing newline, 1–280 code points).
+// Ordinary agent move first; the turn is the last word, and the line does not explain it.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const JOKE =
-  "The demo's query crashed, so my agent deleted the WHERE clause. The prospect recognized his competitors.";
+  "The demo crashed, so my agent served the fixture from the repo. The prospect recognized the account he had deleted.";
 
 const codePoints = [...JOKE].length;
 if (codePoints < 1 || codePoints > 280 || JOKE.trim() === "") {
